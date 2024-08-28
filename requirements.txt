@@ -1,0 +1,6 @@
+lida
+lida[transformers]
+torch
+streamlit
+scikit-learn
+geopy
